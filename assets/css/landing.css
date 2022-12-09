@@ -13,7 +13,7 @@
     overflow: hidden;
     border-radius: 50%;
     margin: 0 auto}
-	.logo-footer {opacity:0.5;color: #fff;text-align: center;bottom: 32px;left: calc(50% - 15px);position: absolute}
+	.logo-footer {opacity:1;color: #fff;text-align: center;bottom: 40px;left: calc(50% - 15px);position: absolute}
 a:link,a:visited,.widget_bottom h1,.widget_bottom .caption{color:#ffffff}.bg-ekoyudi{background:#131212}.widget_bottom{width:640px}
 	.widget_bottom h1{margin-top:16px;margin-bottom:0;font-family:Inter, sans-serif;font-size:18px;font-weight:700}
 	.widget_bottom h2.caption {line-height:22px;margin-top:12px}
